@@ -1,0 +1,20 @@
+body{
+    background-color: #ffcae4;
+}
+
+#ys {
+    font-size: large;
+    float: left;
+    margin-left:10px ;
+}
+
+#timer {
+    font-size: large;
+    float: right;
+    margin-right: 10px;
+}
+
+#drawn {
+    color: red;
+    font-size: larger;
+}
